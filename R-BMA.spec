@@ -4,7 +4,7 @@
 #
 Name     : R-BMA
 Version  : 3.18.14
-Release  : 8
+Release  : 9
 URL      : https://cran.r-project.org/src/contrib/BMA_3.18.14.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/BMA_3.18.14.tar.gz
 Summary  : Bayesian Model Averaging
