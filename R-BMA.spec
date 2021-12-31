@@ -4,7 +4,7 @@
 #
 Name     : R-BMA
 Version  : 3.18.15
-Release  : 19
+Release  : 20
 URL      : https://cran.r-project.org/src/contrib/BMA_3.18.15.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/BMA_3.18.15.tar.gz
 Summary  : Bayesian Model Averaging
@@ -42,10 +42,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1640900682
+export SOURCE_DATE_EPOCH=1640982456
 
 %install
-export SOURCE_DATE_EPOCH=1640900682
+export SOURCE_DATE_EPOCH=1640982456
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
